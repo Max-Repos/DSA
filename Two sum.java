@@ -1,4 +1,4 @@
-Approach : using hashmap, iterate through array simultaneously check is map contains target-currentElement (simply T=a+b -->b=T-a) else add curr ele to map.
+// Approach : using hashmap, iterate through array simultaneously check is map contains target-currentElement (simply T=a+b -->b=T-a) else add curr ele to map.
 
 public int[] twoSum(int[] nums, int target) {
 int right = 0;
